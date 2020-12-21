@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+*.xml
+*.mf
+*.properties
+PackDownload/Projetos/Aula06/build/classes/.netbeans_automatic_build
+PackDownload/Projetos/OperadoresLogicos/ProjetoGenioAulaOito/build/classes/.netbeans_automatic_build
+PackDownload/Projetos/OperadoresLogicos/SenCosTan/build/classes/.netbeans_automatic_build
+PackDownload/Projetos/OperadoresLogicos/VerificadorIdadeSwing/build/classes/.netbeans_automatic_build
+PackDownload/Projetos/PPOAula03Visibilidade/build/classes/.netbeans_update_resources
+PackDownload/Projetos/UltraEmojiCombate/build/classes/.netbeans_automatic_build
+PackDownload/Projetos/ExemploDoWhiile/build/classes/.netbeans_update_resources
+PackDownload/Projetos/ExemploSoma/build/classes/.netbeans_update_resources
